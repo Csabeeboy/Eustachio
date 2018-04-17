@@ -1,0 +1,24 @@
+{
+  "name": "eustachio",
+  "version": "1.0.0",
+  "description": "test project to display 'pistachio'",
+  "main": "src/index.js",
+  "dependencies": {
+    "koa-server": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo to be implemented"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Csabeeboy/Eustachio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Csabeeboy/Eustachio/issues"
+  },
+  "homepage": "https://github.com/Csabeeboy/Eustachio#readme"
+}
